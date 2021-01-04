@@ -9,7 +9,12 @@ Star Wars - Galaxy in Turmoil (SWPRG) is a Star Wars themeed Role Playing Game /
 
 ---
 
-## Bug Reports
+## Collaboration
+### Event Submissions
+_Coming Soon._
+In the meantime, please refer to the #contribution-guide channel in the SWRPG Discord.
+
+### Item Submissions
 _Coming Soon._
 
 ---
@@ -19,12 +24,7 @@ _Coming Soon._
 
 ---
 
-## Collaboration
-### Event Submissions
-_Coming Soon._
-In the meantime, please refer to the #contribution-guide channel in the SWRPG Discord.
-
-### Item Submissions
+## Bug Reports
 _Coming Soon._
 
 ---
