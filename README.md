@@ -1,5 +1,4 @@
 <p align="center">
-  <h1>SWRPG - Galaxy in Turmoil</h1>
   <a href= 'https://discord.gg/aqYHAH5GE5'><img src ="https://cdn.discordapp.com/attachments/743343095130619943/795598864329080862/cover_edit.png"/> </a>
   <br/>
   <br/>
