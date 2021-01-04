@@ -1,4 +1,8 @@
-# SWRPG - Galaxy in Turmoil
+<p align="center">
+  <br/>
+  <a href= 'https://bejasc.github.io/SWRPG-Galaxy-In-Turmoil/#/'><img src ="https://cdn.discordapp.com/attachments/743343095130619943/795634919984463882/badge-full.png"/> </a>
+  <br/>
+</p>
 
 Welcome to the public issue tracker and support site for Star Wars: Galaxy in Turmoil
 
