@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a report to help us improve
-title: "[BUG]"
-labels: bug
+title: "[Bug]"
+labels: 'Type: Bug'
 assignees: ''
 
 ---
@@ -10,8 +10,8 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Steps To Reproduce**
+What did you do to encounter this behaviour? Please be as detailed as possible.
 1. 
 2. 
 3. 
