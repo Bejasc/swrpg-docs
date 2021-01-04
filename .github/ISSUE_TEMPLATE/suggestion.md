@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Make a suggestion for the bot Please use a title that clearly and briefly explains your idea. This template is detailed and prompts you for multiple pieces of information that will help formulate a well formatted and well presented suggestion. Suggestions made in this way are well-respected and will be looked at sooner.
+about: Make a suggestion for the bot. This template is detailed and prompts you for information that will help make a well formatted and well presented suggestion. Suggestions made in this way are well-respected and will be looked at sooner.
 title: "[Suggestion]"
 labels: 'Type: Suggestion'
 assignees: ''
