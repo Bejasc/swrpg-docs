@@ -1,9 +1,9 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: Found an issue you need to report? Use this template.
 title: "[Bug]"
 labels: 'Type: Bug'
-assignees: ''
+assignees: 'Bejasc'
 
 ---
 
