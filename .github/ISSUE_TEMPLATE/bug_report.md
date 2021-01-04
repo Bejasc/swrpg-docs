@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Found an issue you need to report? Use this template.
+about: Found an issue with the bot you need to report? Use this template.
 title: "[Bug]"
 labels: 'Type: Bug'
 assignees: 'Bejasc'
