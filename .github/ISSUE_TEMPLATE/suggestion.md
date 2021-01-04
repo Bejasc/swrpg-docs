@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Make a suggestion for the bot. This template is detailed and prompts you for information that will help make a well formatted and well presented suggestion. Suggestions made in this way are well-respected and will be looked at sooner.
+This template is detailed and prompts you for info that will help make a well formatted and well presented suggestion. Suggestions made in this way are well-respected and will be looked at sooner.
 title: "[Suggestion]"
 labels: 'Type: Suggestion'
 assignees: ''
