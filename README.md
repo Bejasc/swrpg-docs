@@ -1,4 +1,4 @@
-#SWRPG - Galaxy in Turmoil
+# SWRPG - Galaxy in Turmoil
 
 Welcome to the public issue tracker and support site for Star Wars: Galaxy in Turmoil
 
