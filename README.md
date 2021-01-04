@@ -7,9 +7,17 @@ Here, you will be able to report bugs, submit feature requets, submit new events
 ## What is SWRPG - Galaxy in Turmoil?
 Star Wars - Galaxy in Turmoil (SWPRG) is a Star Wars themeed Role Playing Game / Role Play game, that is delivered via the Discord Platform in the form of a custom bot written by Bejas, using Discord.JS, Discord Akairo, Typescript, and MongoDB.
 
+---
+
 ## Bug Reports
+_Coming Soon._
+
+---
 
 ## Feature Requests
+_Coming Soon._
+
+---
 
 ## Collaboration
 ### Event Submissions
