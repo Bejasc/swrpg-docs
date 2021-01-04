@@ -1,5 +1,5 @@
 ---
-name: Contribution: Item
+name: "Contribution: Item"
 about: A new item that you would like to see in SWRPG. If multiple items are being suggested, please copy the content and number the items.
 title: "[Contribution] Item: <item name>"
 labels: 'Type: Community Submission'
