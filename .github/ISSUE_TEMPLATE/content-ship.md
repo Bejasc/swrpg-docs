@@ -1,4 +1,4 @@
----
+DISABLED ---
 name: "Contribution: Ship"
 about: A new Ship that you would like to see in SWRPG. If multiple Ships are being suggested, please copy the content and number the items.
 title: "[Contribution] Ship: <ship name>"
